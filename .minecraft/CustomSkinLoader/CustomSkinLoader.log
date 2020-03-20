@@ -1,0 +1,142 @@
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] CustomSkinLoader 14.11
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] DataDir: C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] Minecraft: 1.12.2(1.12.2)
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] Config File: C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\CustomSkinLoader.json
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] Try to load config.
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] Successfully load config.
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] version : 14.11
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] enableDynamicSkull : true
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] enableTransparentSkin : true
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] ignoreHttpsCertificate : false
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] forceLoadAllTextures : false
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] enableCape : true
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] cacheExpiry : 30
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] enableUpdateSkull : false
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] enableLocalProfileCache : false
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] enableCacheAutoClean : false
+[2020-03-20 11:52:34] [pool-6-thread-1 INFO] loadList : 7
+[2020-03-20 11:52:34] [gysdfhome INFO] Loading gysdfhome's profile.
+[2020-03-20 11:52:34] [gysdfhome INFO] 1/7 Try to load profile from 'Mojang'.
+[2020-03-20 11:52:34] [gysdfhome DEBUG] Try to request 'https://api.mojang.com/users/profiles/minecraft/gysdfhome'.
+[2020-03-20 11:52:34] [gysdfhome DEBUG] Cache file found (Length: 60 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\13537a1e19845c297a905f42c461ab3c4e730169' , Expire: 0')
+[2020-03-20 11:52:34] [gysdfhome INFO] Try to load from cache 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\13537a1e19845c297a905f42c461ab3c4e730169'.
+[2020-03-20 11:52:34] [gysdfhome DEBUG] Successfully load from cache
+[2020-03-20 11:52:34] [gysdfhome DEBUG] Content: {"id":"fd246f65a14a4542b62952771539f4f4","name":"gysdfhome"}
+[2020-03-20 11:52:34] [gysdfhome DEBUG] Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/fd246f65a14a4542b62952771539f4f4'.
+[2020-03-20 11:52:35] [gysdfhome DEBUG] Successfully request (Response Code: 200 , Content Length: 258)
+[2020-03-20 11:52:35] [gysdfhome DEBUG] Saved to cache (Length: 258 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\0bb195b733cace025ea91836a1171f182105d495' , Expire: 1584676450)
+[2020-03-20 11:52:35] [gysdfhome DEBUG] Content: {"id":"fd246f65a14a4542b62952771539f4f4","name":"gysdfhome","properties":[{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE1ODQ2NzYzNTU3MzQsInByb2ZpbGVJZCI6ImZkMjQ2ZjY1YTE0YTQ1NDJiNjI5NTI3NzE1MzlmNGY0IiwicHJvZmlsZU5hbWUiOiJneXNkZmhvbWUiLCJ0ZXh0dXJlcyI6e319"}]}
+[2020-03-20 11:52:35] [gysdfhome INFO] Profile not found.(gysdfhome doesn't have skin/cape.)
+[2020-03-20 11:52:35] [gysdfhome INFO] 2/7 Try to load profile from 'LittleSkin'.
+[2020-03-20 11:52:35] [gysdfhome DEBUG] Try to request 'https://littleskin.cn/gysdfhome.json'.
+[2020-03-20 11:52:36] [gysdfhome DEBUG] Successfully request (Response Code: 200 , Content Length: 61)
+[2020-03-20 11:52:36] [gysdfhome DEBUG] Saved to cache (Length: 61 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\e1cd5a2e7c8606000646aa8b40cb3ab9d580c490' , Expire: 1584676450)
+[2020-03-20 11:52:36] [gysdfhome DEBUG] Content: {"username":"gysdfhome","skins":{"default":null},"cape":null}
+[2020-03-20 11:52:36] [gysdfhome INFO] Both skin and cape not found.
+[2020-03-20 11:52:36] [gysdfhome INFO] 3/7 Try to load profile from 'BlessingSkin'.
+[2020-03-20 11:52:36] [gysdfhome DEBUG] Try to request 'http://skin.prinzeugen.net/gysdfhome.json'.
+[2020-03-20 11:52:37] [gysdfhome DEBUG] Failed to request (Response Code: 404)
+[2020-03-20 11:52:37] [gysdfhome INFO] Profile not found.
+[2020-03-20 11:52:37] [gysdfhome INFO] 4/7 Try to load profile from 'ElyBy'.
+[2020-03-20 11:52:37] [gysdfhome DEBUG] Try to request 'http://skinsystem.ely.by/textures/gysdfhome?version=2&minecraft_version=1.12.2'.
+[2020-03-20 11:52:38] [gysdfhome DEBUG] Successfully request (Response Code: 200 , Content Length: 116)
+[2020-03-20 11:52:38] [gysdfhome DEBUG] Saved to cache (Length: 116 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\2fa0918ccc59d95104530ad2e0b4ec8204e029d7' , Expire: 1584676450)
+[2020-03-20 11:52:38] [gysdfhome DEBUG] Content: {"SKIN":{"url":"http://skins.minecraft.net/MinecraftSkins/gysdfhome.png","hash":"042f6915e16fc21579c06408b53530a2"}}
+[2020-03-20 11:52:38] [gysdfhome INFO] Both skin and cape not found.
+[2020-03-20 11:52:38] [gysdfhome INFO] 5/7 Try to load profile from 'SkinMe'.
+[2020-03-20 11:52:38] [gysdfhome DEBUG] Try to request 'http://www.skinme.cc/uniskin/gysdfhome.json'.
+[2020-03-20 11:52:38] [gysdfhome DEBUG] Successfully request (Response Code: 200 , Content Length: 37)
+[2020-03-20 11:52:38] [gysdfhome DEBUG] Saved to cache (Length: 37 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\312c6afbe902061e9b9df162422fa0067abc9e88' , Expire: 1584676448)
+[2020-03-20 11:52:38] [gysdfhome DEBUG] Content: {"errno":404,"msg":"User not found."}
+[2020-03-20 11:52:38] [gysdfhome INFO] Error 404: User not found.
+[2020-03-20 11:52:38] [gysdfhome INFO] 6/7 Try to load profile from 'LocalSkin'.
+[2020-03-20 11:52:38] [gysdfhome INFO] Both skin and cape not found.
+[2020-03-20 11:52:38] [gysdfhome INFO] 7/7 Try to load profile from 'GlitchlessGames'.
+[2020-03-20 11:52:38] [gysdfhome DEBUG] Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=gysdfhome'.
+[2020-03-20 11:52:39] [gysdfhome DEBUG] Failed to request (Response Code: 404)
+[2020-03-20 11:52:39] [gysdfhome INFO] Profile not found.
+[2020-03-20 11:52:39] [gysdfhome INFO] gysdfhome's profile not found in load list.
+[2020-03-20 17:04:05] [gysdfhome INFO] Loading gysdfhome's profile.
+[2020-03-20 17:04:05] [gysdfhome INFO] 1/7 Try to load profile from 'Mojang'.
+[2020-03-20 17:04:05] [gysdfhome DEBUG] Try to request 'https://api.mojang.com/users/profiles/minecraft/gysdfhome'.
+[2020-03-20 17:04:05] [gysdfhome DEBUG] Cache file found (Length: 60 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\13537a1e19845c297a905f42c461ab3c4e730169' , Expire: 0')
+[2020-03-20 17:04:05] [gysdfhome INFO] Try to load from cache 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\13537a1e19845c297a905f42c461ab3c4e730169'.
+[2020-03-20 17:04:05] [gysdfhome DEBUG] Successfully load from cache
+[2020-03-20 17:04:05] [gysdfhome DEBUG] Content: {"id":"fd246f65a14a4542b62952771539f4f4","name":"gysdfhome"}
+[2020-03-20 17:04:05] [gysdfhome DEBUG] Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/fd246f65a14a4542b62952771539f4f4'.
+[2020-03-20 17:04:10] [gysdfhome DEBUG] Successfully request (Response Code: 200 , Content Length: 258)
+[2020-03-20 17:04:10] [gysdfhome DEBUG] Saved to cache (Length: 258 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\0bb195b733cace025ea91836a1171f182105d495' , Expire: 1584695144)
+[2020-03-20 17:04:10] [gysdfhome DEBUG] Content: {"id":"fd246f65a14a4542b62952771539f4f4","name":"gysdfhome","properties":[{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE1ODQ2OTUwNDgyMTIsInByb2ZpbGVJZCI6ImZkMjQ2ZjY1YTE0YTQ1NDJiNjI5NTI3NzE1MzlmNGY0IiwicHJvZmlsZU5hbWUiOiJneXNkZmhvbWUiLCJ0ZXh0dXJlcyI6e319"}]}
+[2020-03-20 17:04:10] [gysdfhome INFO] Profile not found.(gysdfhome doesn't have skin/cape.)
+[2020-03-20 17:04:10] [gysdfhome INFO] 2/7 Try to load profile from 'LittleSkin'.
+[2020-03-20 17:04:10] [gysdfhome DEBUG] Try to request 'https://littleskin.cn/gysdfhome.json'.
+[2020-03-20 17:04:11] [gysdfhome DEBUG] Successfully request (Response Code: 304 , Content Length: 0)
+[2020-03-20 17:04:11] [gysdfhome DEBUG] Cache file found (Length: 61 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\e1cd5a2e7c8606000646aa8b40cb3ab9d580c490' , Expire: 0')
+[2020-03-20 17:04:11] [gysdfhome INFO] Try to load from cache 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\e1cd5a2e7c8606000646aa8b40cb3ab9d580c490'.
+[2020-03-20 17:04:11] [gysdfhome DEBUG] Successfully load from cache
+[2020-03-20 17:04:11] [gysdfhome DEBUG] Content: {"username":"gysdfhome","skins":{"default":null},"cape":null}
+[2020-03-20 17:04:11] [gysdfhome INFO] Both skin and cape not found.
+[2020-03-20 17:04:11] [gysdfhome INFO] 3/7 Try to load profile from 'BlessingSkin'.
+[2020-03-20 17:04:11] [gysdfhome DEBUG] Try to request 'http://skin.prinzeugen.net/gysdfhome.json'.
+[2020-03-20 17:04:11] [gysdfhome DEBUG] Failed to request (Response Code: 404)
+[2020-03-20 17:04:11] [gysdfhome INFO] Profile not found.
+[2020-03-20 17:04:11] [gysdfhome INFO] 4/7 Try to load profile from 'ElyBy'.
+[2020-03-20 17:04:11] [gysdfhome DEBUG] Try to request 'http://skinsystem.ely.by/textures/gysdfhome?version=2&minecraft_version=1.12.2'.
+[2020-03-20 17:04:12] [gysdfhome DEBUG] Successfully request (Response Code: 200 , Content Length: 116)
+[2020-03-20 17:04:12] [gysdfhome DEBUG] Saved to cache (Length: 116 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\2fa0918ccc59d95104530ad2e0b4ec8204e029d7' , Expire: 1584695147)
+[2020-03-20 17:04:12] [gysdfhome DEBUG] Content: {"SKIN":{"url":"http://skins.minecraft.net/MinecraftSkins/gysdfhome.png","hash":"9fcc3adde996cc9ea3eba0eb9d0e0a27"}}
+[2020-03-20 17:04:12] [gysdfhome INFO] Both skin and cape not found.
+[2020-03-20 17:04:12] [gysdfhome INFO] 5/7 Try to load profile from 'SkinMe'.
+[2020-03-20 17:04:12] [gysdfhome DEBUG] Try to request 'http://www.skinme.cc/uniskin/gysdfhome.json'.
+[2020-03-20 17:04:12] [gysdfhome DEBUG] Successfully request (Response Code: 200 , Content Length: 37)
+[2020-03-20 17:04:12] [gysdfhome DEBUG] Saved to cache (Length: 37 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\312c6afbe902061e9b9df162422fa0067abc9e88' , Expire: 1584695147)
+[2020-03-20 17:04:12] [gysdfhome DEBUG] Content: {"errno":404,"msg":"User not found."}
+[2020-03-20 17:04:12] [gysdfhome INFO] Error 404: User not found.
+[2020-03-20 17:04:12] [gysdfhome INFO] 6/7 Try to load profile from 'LocalSkin'.
+[2020-03-20 17:04:12] [gysdfhome INFO] Both skin and cape not found.
+[2020-03-20 17:04:12] [gysdfhome INFO] 7/7 Try to load profile from 'GlitchlessGames'.
+[2020-03-20 17:04:12] [gysdfhome DEBUG] Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=gysdfhome'.
+[2020-03-20 17:04:13] [gysdfhome DEBUG] Failed to request (Response Code: 404)
+[2020-03-20 17:04:13] [gysdfhome INFO] Profile not found.
+[2020-03-20 17:04:13] [gysdfhome INFO] gysdfhome's profile not found in load list.
+[2020-03-20 19:24:25] [gysdfhome INFO] Loading gysdfhome's profile.
+[2020-03-20 19:24:25] [gysdfhome INFO] 1/7 Try to load profile from 'Mojang'.
+[2020-03-20 19:24:25] [gysdfhome DEBUG] Try to request 'https://api.mojang.com/users/profiles/minecraft/gysdfhome'.
+[2020-03-20 19:24:25] [gysdfhome DEBUG] Cache file found (Length: 60 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\13537a1e19845c297a905f42c461ab3c4e730169' , Expire: 0')
+[2020-03-20 19:24:25] [gysdfhome INFO] Try to load from cache 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\13537a1e19845c297a905f42c461ab3c4e730169'.
+[2020-03-20 19:24:25] [gysdfhome DEBUG] Successfully load from cache
+[2020-03-20 19:24:25] [gysdfhome DEBUG] Content: {"id":"fd246f65a14a4542b62952771539f4f4","name":"gysdfhome"}
+[2020-03-20 19:24:25] [gysdfhome DEBUG] Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/fd246f65a14a4542b62952771539f4f4'.
+[2020-03-20 19:24:27] [gysdfhome DEBUG] Successfully request (Response Code: 200 , Content Length: 258)
+[2020-03-20 19:24:27] [gysdfhome DEBUG] Saved to cache (Length: 258 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\0bb195b733cace025ea91836a1171f182105d495' , Expire: 1584703561)
+[2020-03-20 19:24:27] [gysdfhome DEBUG] Content: {"id":"fd246f65a14a4542b62952771539f4f4","name":"gysdfhome","properties":[{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE1ODQ3MDM0NjcxOTgsInByb2ZpbGVJZCI6ImZkMjQ2ZjY1YTE0YTQ1NDJiNjI5NTI3NzE1MzlmNGY0IiwicHJvZmlsZU5hbWUiOiJneXNkZmhvbWUiLCJ0ZXh0dXJlcyI6e319"}]}
+[2020-03-20 19:24:27] [gysdfhome INFO] Profile not found.(gysdfhome doesn't have skin/cape.)
+[2020-03-20 19:24:27] [gysdfhome INFO] 2/7 Try to load profile from 'LittleSkin'.
+[2020-03-20 19:24:27] [gysdfhome DEBUG] Try to request 'https://littleskin.cn/gysdfhome.json'.
+[2020-03-20 19:24:27] [gysdfhome DEBUG] Successfully request (Response Code: 200 , Content Length: 61)
+[2020-03-20 19:24:27] [gysdfhome DEBUG] Saved to cache (Length: 61 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\e1cd5a2e7c8606000646aa8b40cb3ab9d580c490' , Expire: 1584703562)
+[2020-03-20 19:24:27] [gysdfhome DEBUG] Content: {"username":"gysdfhome","skins":{"default":null},"cape":null}
+[2020-03-20 19:24:27] [gysdfhome INFO] Both skin and cape not found.
+[2020-03-20 19:24:27] [gysdfhome INFO] 3/7 Try to load profile from 'BlessingSkin'.
+[2020-03-20 19:24:27] [gysdfhome DEBUG] Try to request 'http://skin.prinzeugen.net/gysdfhome.json'.
+[2020-03-20 19:24:27] [gysdfhome DEBUG] Failed to request (Response Code: 404)
+[2020-03-20 19:24:27] [gysdfhome INFO] Profile not found.
+[2020-03-20 19:24:27] [gysdfhome INFO] 4/7 Try to load profile from 'ElyBy'.
+[2020-03-20 19:24:27] [gysdfhome DEBUG] Try to request 'http://skinsystem.ely.by/textures/gysdfhome?version=2&minecraft_version=1.12.2'.
+[2020-03-20 19:24:28] [gysdfhome DEBUG] Successfully request (Response Code: 200 , Content Length: 116)
+[2020-03-20 19:24:28] [gysdfhome DEBUG] Saved to cache (Length: 116 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\2fa0918ccc59d95104530ad2e0b4ec8204e029d7' , Expire: 1584703563)
+[2020-03-20 19:24:28] [gysdfhome DEBUG] Content: {"SKIN":{"url":"http://skins.minecraft.net/MinecraftSkins/gysdfhome.png","hash":"4ffab20077728f566796dc5da3fc0d2f"}}
+[2020-03-20 19:24:28] [gysdfhome INFO] Both skin and cape not found.
+[2020-03-20 19:24:28] [gysdfhome INFO] 5/7 Try to load profile from 'SkinMe'.
+[2020-03-20 19:24:28] [gysdfhome DEBUG] Try to request 'http://www.skinme.cc/uniskin/gysdfhome.json'.
+[2020-03-20 19:24:28] [gysdfhome DEBUG] Successfully request (Response Code: 200 , Content Length: 37)
+[2020-03-20 19:24:28] [gysdfhome DEBUG] Saved to cache (Length: 37 , Path: 'C:\Users\86137\Desktop\GHSlight\GHSlightHMCL\.minecraft\CustomSkinLoader\caches\312c6afbe902061e9b9df162422fa0067abc9e88' , Expire: 1584703559)
+[2020-03-20 19:24:28] [gysdfhome DEBUG] Content: {"errno":404,"msg":"User not found."}
+[2020-03-20 19:24:28] [gysdfhome INFO] Error 404: User not found.
+[2020-03-20 19:24:28] [gysdfhome INFO] 6/7 Try to load profile from 'LocalSkin'.
+[2020-03-20 19:24:28] [gysdfhome INFO] Both skin and cape not found.
+[2020-03-20 19:24:28] [gysdfhome INFO] 7/7 Try to load profile from 'GlitchlessGames'.
+[2020-03-20 19:24:28] [gysdfhome DEBUG] Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=gysdfhome'.
+[2020-03-20 19:24:29] [gysdfhome DEBUG] Failed to request (Response Code: 404)
+[2020-03-20 19:24:29] [gysdfhome INFO] Profile not found.
+[2020-03-20 19:24:29] [gysdfhome INFO] gysdfhome's profile not found in load list.
