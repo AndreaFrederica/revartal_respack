@@ -1,0 +1,23 @@
+{
+
+    "name": "Overview",
+
+    "icon": "minecraft:writable_book",
+
+    "category": "overview_category",
+
+    "pages": [
+
+        {
+
+            "type": "text",
+
+            "text": "此ModPark是一个为GHServer 1.12服务器所准备的轻量ModPark
+在本服，你能拥有近乎本地游戏的体验，以及一些服务器特有的项目
+享受它吧————GHSTeam"
+
+        }
+
+    ]
+
+}

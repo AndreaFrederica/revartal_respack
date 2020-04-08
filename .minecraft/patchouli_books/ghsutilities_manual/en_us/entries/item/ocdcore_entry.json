@@ -1,0 +1,21 @@
+{
+
+    "name": "OcdCore",
+
+    "icon": "ghsutilities:ocdcore",
+
+    "category": "item_category",
+
+    "pages": [
+
+        {
+
+            "type": "text",
+
+            "text": "A Tag (OCD) item."
+
+        }
+
+    ]
+
+}

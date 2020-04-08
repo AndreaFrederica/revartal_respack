@@ -1,0 +1,21 @@
+{
+
+    "name": "RedStoneSource",
+
+    "icon": "ghsutilities:redstonesource",
+
+    "category": "block_category",
+
+    "pages": [
+
+        {
+
+            "type": "text",
+
+            "text": "一个简单的红石信号源"
+
+        }
+
+    ]
+
+}

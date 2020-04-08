@@ -1,0 +1,21 @@
+{
+
+    "name": "RedStoneSource",
+
+    "icon": "ghsutilities:redstonesource",
+
+    "category": "block_category",
+
+    "pages": [
+
+        {
+
+            "type": "text",
+
+            "text": "A simple redstone source.."
+
+        }
+
+    ]
+
+}
