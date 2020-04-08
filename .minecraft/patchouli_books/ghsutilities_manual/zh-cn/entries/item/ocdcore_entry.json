@@ -1,0 +1,21 @@
+{
+
+    "name": "OcdCore",
+
+    "icon": "ghsutilities:ocdcore",
+
+    "category": "item_category",
+
+    "pages": [
+
+        {
+
+            "type": "text",
+
+            "text": "一个（OCD）标记"
+
+        }
+
+    ]
+
+}

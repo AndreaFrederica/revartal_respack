@@ -1,0 +1,21 @@
+{
+
+    "name": "Overview",
+
+    "icon": "minecraft:writable_book",
+
+    "category": "overview_category",
+
+    "pages": [
+
+        {
+
+            "type": "text",
+
+            "text": "一个GHSProject的小mod"
+
+        }
+
+    ]
+
+}
