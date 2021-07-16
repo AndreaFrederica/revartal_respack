@@ -1,6 +1,6 @@
 // extrabotany:manaliquefaction
-recipes.remove(extrabotany:manaliquefaction);
-recipes.addShaped(extrabotany:manaliquefaction,
+recipes.remove(<extrabotany:manaliquefaction>);
+recipes.addShaped(<extrabotany:manaliquefaction>,
     [
         [<botania:rune>, <botania:manaresource>, <botania:rune>],
         [<botania:rune:7>, <pneumaticcraft:flux_compressor>, <botania:rune:8>],

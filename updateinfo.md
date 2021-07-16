@@ -1,4 +1,3 @@
 ### Update
-MatterOverdrive-1.12.2-0.7.1.0-universal ->
-MatterOverdrive-glitchn-1.12.2-0.7.1.0-universal
-#remove glitch
+增加了CT全家桶
+修复了部分合成冲突
