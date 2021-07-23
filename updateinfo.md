@@ -1,3 +1,9 @@
 ### Update
-增加了CT全家桶
-修复了部分合成冲突
+PackagedAuto-1.12.2-1.0.3.14 --> PackagedAuto-1.12.2-1.0.5.17
+
+### Install
+
+ForgivingVoid_1.12.2-1.1.0
+
+future-mc-1.12.2-0.2.6.1
+

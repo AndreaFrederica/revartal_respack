@@ -1,4 +1,4 @@
-DrasylServer_ReVartal的modpark部分
+## DrasylServer_ReVartal的modpark部分
 
 适用于更新客户端 
 
@@ -6,3 +6,8 @@ DrasylServer_ReVartal的modpark部分
 
  **使用DCM安装** 
 [https://gitee.com/GHSteam/revartal_info-cilp/raw/master/Preinstall.json](https://gitee.com/GHSteam/revartal_info-cilp/raw/master/Preinstall.json)
+
+
+
+## 更新内容请查看updateinfo及Git提交记录
+
